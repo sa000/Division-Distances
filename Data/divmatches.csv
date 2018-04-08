@@ -1,0 +1,61 @@
+Matchup,Division,Distance
+Chicago Bulls vs Cleveland Cavaliers ,Central,344
+Chicago Bulls vs Detroit Pistons ,Central,281
+Chicago Bulls vs Indiana Pacers ,Central,165
+Chicago Bulls vs Milwaukee Bucks ,Central,92
+Cleveland Cavaliers vs Detroit Pistons ,Central,169
+Cleveland Cavaliers vs Indiana Pacers ,Central,298
+Cleveland Cavaliers vs Milwaukee Bucks ,Central,435
+Detroit Pistons vs Indiana Pacers ,Central,432
+Detroit Pistons vs Milwaukee Bucks ,Central,615
+Indiana Pacers vs Milwaukee Bucks ,Central,262
+Golden State Warriors vs LA Clippers ,Pacific,383
+Golden State Warriors vs Los Angeles Lakers ,Pacific,383
+Golden State Warriors vs Phoenix Suns ,Pacific,754
+Golden State Warriors vs Sacramento Kings ,Pacific,88
+LA Clippers vs Los Angeles Lakers ,Pacific,0
+LA Clippers vs Phoenix Suns ,Pacific,373
+LA Clippers vs Sacramento Kings ,Pacific,384
+Los Angeles Lakers vs Phoenix Suns ,Pacific,373
+Los Angeles Lakers vs Sacramento Kings ,Pacific,384
+Phoenix Suns vs Sacramento Kings ,Pacific,755
+Atlanta Hawks vs Charlotte Hornets ,Southeast,244
+Atlanta Hawks vs Miami Heat ,Southeast,663
+Atlanta Hawks vs Orlando Magic ,Southeast,439
+Atlanta Hawks vs Washington Wizards ,Southeast,638
+Charlotte Hornets vs Miami Heat ,Southeast,729
+Charlotte Hornets vs Orlando Magic ,Southeast,524
+Charlotte Hornets vs Washington Wizards ,Southeast,399
+Miami Heat vs Orlando Magic ,Southeast,236
+Miami Heat vs Washington Wizards ,Southeast,1053
+Orlando Magic vs Washington Wizards ,Southeast,846
+Boston Celtics vs Brooklyn Nets ,Atlantic,216
+Boston Celtics vs New York Knicks ,Atlantic,215
+Boston Celtics vs Philadelphia 76ers ,Atlantic,311
+Boston Celtics vs Toronto Raptors ,Atlantic,551
+Brooklyn Nets vs New York Knicks ,Atlantic,5
+Brooklyn Nets vs Philadelphia 76ers ,Atlantic,100
+Brooklyn Nets vs Toronto Raptors ,Atlantic,496
+New York Knicks vs Philadelphia 76ers ,Atlantic,97
+New York Knicks vs Toronto Raptors ,Atlantic,492
+Philadelphia 76ers vs Toronto Raptors ,Atlantic,498
+Denver Nuggets vs Minnesota Timberwolves ,Northwest,927
+Denver Nuggets vs Oklahoma City Thunder ,Northwest,678
+Denver Nuggets vs Portland Trail Blazers ,Northwest,1243
+Denver Nuggets vs Utah Jazz ,Northwest,433
+Minnesota Timberwolves vs Oklahoma City Thunder ,Northwest,945
+Minnesota Timberwolves vs Portland Trail Blazers ,Northwest,1614
+Minnesota Timberwolves vs Utah Jazz ,Northwest,1307
+Oklahoma City Thunder vs Portland Trail Blazers ,Northwest,1910
+Oklahoma City Thunder vs Utah Jazz ,Northwest,1110
+Portland Trail Blazers vs Utah Jazz ,Northwest,919
+Dallas Mavericks vs Houston Rockets ,Southwest,239
+Dallas Mavericks vs Memphis Grizzlies ,Southwest,452
+Dallas Mavericks vs New Orleans Pelicans ,Southwest,505
+Dallas Mavericks vs San Antonio Spurs ,Southwest,274
+Houston Rockets vs Memphis Grizzlies ,Southwest,568
+Houston Rockets vs New Orleans Pelicans ,Southwest,348
+Houston Rockets vs San Antonio Spurs ,Southwest,197
+Memphis Grizzlies vs New Orleans Pelicans ,Southwest,395
+Memphis Grizzlies vs San Antonio Spurs ,Southwest,726
+New Orleans Pelicans vs San Antonio Spurs ,Southwest,543
